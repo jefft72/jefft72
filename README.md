@@ -10,8 +10,3 @@
   <img src="https://skillicons.dev/icons?i=java,python,react,flutter,git,vercel,html" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jefft72&theme=radical&column=1" alt="trophy" />
-  </a>
-</p>
